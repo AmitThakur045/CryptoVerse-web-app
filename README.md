@@ -23,4 +23,5 @@ This Repo Contains a functional Cryptoverse web app made using Reactjs and redux
 1. User Authentication.
 2. User Whislist
 
-# Preview - https://cryptoverse-amitthakur045.netlify.app/
+# Preview 
+https://cryptoverse-amitthakur045.netlify.app/
